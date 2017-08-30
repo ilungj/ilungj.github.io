@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/villig.png
 title: Villig
 permalink: projects/villig
 date: 2017
@@ -20,4 +20,4 @@ Villig is an Android application that allows people in the local community to ea
 
 I led a small team for this project. The application was built on top of the Android SDK, using Java. The server was based on Apache, and used MySQL for data storage, and was written in PHP for processing information.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/ilungj/villig"><i class="large github icon"></i>ilungj/villig</a>
