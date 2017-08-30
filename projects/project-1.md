@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Pirate's Cove
+permalink: projects/pirate
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Game
+summary: I developed a physics based, drag and drop shooting game for ICS111.
 ---
 
 <div class="ui small rounded images">
