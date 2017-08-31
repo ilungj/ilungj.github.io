@@ -20,5 +20,5 @@ Villig is an Android application that allows people in the local community to ea
 
 I led a small team for this project. The application was built on top of the Android SDK, using Java. The server was based on Apache, and used MySQL for data storage, and was written in PHP for processing information.
  
-Source: <a href="https://github.com/ilungj/villig"><i class="large github icon"></i>ilungj/villig</a>
-Featured: <a href="https://2017.spaceappschallenge.org/challenges/earth-and-us/pilots-plus/teams/fly/project"> Here </a>
+Source: <a href="https://github.com/ilungj/villig"><i class="large github icon"></i>ilungj/villig</a> <br>
+Featured: <a href="http://www.ics.hawaii.edu/2017/03/ics-students-win-big-at-att-hackathon/"> Here </a>
