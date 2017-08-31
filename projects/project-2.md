@@ -11,7 +11,7 @@ labels:
   - PHP
   - Apache
   - MySQL
-summary: I developed an Android application that won the Best UI/UX award in the 2017 AT&T Hackathon.
+summary: I developed an Android application that won the Best UI/UX award at the 2017 AT&T Hackathon.
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jVBy1bdVcYE" frameborder="0" allowfullscreen></iframe> <br>
