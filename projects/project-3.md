@@ -8,7 +8,7 @@ date: 2017
 labels:
   - Javascript
   - 3js
-summary: I developed a web application that won Local People's Choice Award at the NASA Space Apps Challenge.
+summary: My team developed a web application that won Local People's Choice Award at the NASA Space Apps Challenge.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
