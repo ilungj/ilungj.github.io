@@ -17,5 +17,5 @@ How do child passengers visualize what's going on beneath them as they're flying
 
 I devised the project idea, delegated roles for my teammates, and programmed custom character controller, physics system, and animations. Our team built the application using 3js for rendering 3D models on the browser and jQuery for manipulating the DOM. All graphics and 3D models used are custom made using Blender.
 
-Source: <a href="https://github.com/ilungj/"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/ilungj/nasa-space-app"><i class="large github icon "></i>ilungj/nasa-space-app</a>
 
