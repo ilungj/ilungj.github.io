@@ -14,5 +14,5 @@ summary: I developed a physics based, drag and drop shooting game for ICS111.
 
 Pirate's Cove is a drag and drop shooting game. The whole point of the game is to survive for as long as possible by taking down the incoming flying arrows. The user can control the strength and direction of the cannonballs by dragging on the cannon. The user can also build barricades of small boxes by pressing on a button.
 
-Pirate's Cove is my first every programming project and for that reason I'm very fond of it. The game was built using Java and a small open source physics engine called Impulse Engine. 
+Pirate's Cove is my first ever programming project and for that reason I'm very fond of it. The game was built using Java and a small open source physics engine called Impulse Engine. 
 
