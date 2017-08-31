@@ -2,7 +2,7 @@
   "basics": {
     "name": "Il Ung Jeong",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "../images/profile.jpg",
     "email": "ilungj@gmail.com",
     "phone": "808-462-9109",
     "website": "https://ilungj.github.io",
