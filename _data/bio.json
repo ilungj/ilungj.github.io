@@ -6,7 +6,7 @@
     "email": "ilungj@gmail.edu",
     "phone": "808-462-9109",
     "website": "https://ilungj.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2019.",
     "location": {
       "address": "",
       "postalCode": "96818",
@@ -22,24 +22,24 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "ilungj",
         "url": "https://www.linkedin.com/in/il-ung-jeong-343481107/"
       }
     ]
   },
   "interests": [
     {
-      "name": "embedded systems",
+      "name": "Embedded systems",
       "keywords": [
       ]
     },
     {
-      "name": "it",
+      "name": "IT",
       "keywords": [
       ]
     },
     {
-      "name": "graphics design",
+      "name": "Graphics design",
       "keywords": [
       ]
     }
