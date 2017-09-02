@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript Started
+title: The Hidden Gem
 date: 2017-08-27
 labels:
 ---
