@@ -31,6 +31,6 @@ Many people know how to program in JavaScript, and this may lead people to think
 Speaking of node package manager, node.js is a platform that lets you program on the server side with JavaScript. With this you can slim down on the technology stack and work more cohesively between the front-end and back-end developers on your team. Also, because of JavaScript's popularity, other people have created frameworks for developing cross platform applications that you can use to make native desktop and mobile applications with JavaScript only. 
 JavaScript is like a hidden gem.
 
-<br><br>
+<br>
 
 I would like to rectify my initial statement about JavaScript being only good for making websites. JavaScript is good for making websites and good for doing everything else. Some people (like me) may be cautious about learning JavaScript in the beginnning because of prejudices and confusing concepts like prototypes. But if they give it a chance to really get to learn more about the language, they will find it a very useful and intriguing language.
