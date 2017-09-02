@@ -20,7 +20,7 @@ Because properties of functions can easily be linked to other functions, you can
 
 The fragile base class problem is vulnerability in code where modifications to the base class can cause subclasses to malfunction. Suppose you're coding in Java again, and you have a class B that extends from class A, and classes C and D that extend from class B. Now make believe that there's a problem in C, but in order to fix this, we need to make some changes to the methods that were inherited all the way from class A. So you make these changes.. but voilà , class D is now broken because it was relying on the method that was changed in class A. If you could only inherit what you needed for each class and could easily add custom methods like in JavaScript, you would unlikely encounter this problem. 
 
-<h3>I don't understand</h3>
+<h3>I don't understand.</h3>
 
 If you don't quite understand concepts like what I just described, you can always search online to find tons of resources that will help you understand. This brings up my next point, which is JavaScript's widely received support from community.
 
@@ -29,8 +29,7 @@ If you don't quite understand concepts like what I just described, you can alway
 Many people know how to program in JavaScript, and this may lead people to think that JavaScript is easy to learn. But this doesn't have to imply demerits of the language. In fact, because it is so accessible and popular, JavaScript is fast growing and offers a lot of scaffolding tools to facilitate your workflow. For example, the node package manager is a repository of hundreds of thousands of libraries and modules that you can integrate into your project according to your needs. This eliminates the need for you to reinvent the wheels and spend hours creating all of those helper tools and drivers.
 
 Speaking of node package manager, node.js is a platform that lets you program on the server side with JavaScript. With this you can slim down on the technology stack and work more cohesively between the front-end and back-end developers on your team. Also, because of JavaScript's popularity, other people have created frameworks for developing cross platform applications that you can use to make native desktop and mobile applications with JavaScript only. 
-JavaScript is like a hidden gem.
 
-<br>
+<h2>JavaScript is like a hidden gem</h2>
 
 I would like to rectify my initial statement about JavaScript being only good for making websites. JavaScript is good for making websites and good for doing everything else. Some people (like me) may be cautious about learning JavaScript in the beginnning because of prejudices and confusing concepts like prototypes. But if they give it a chance to really get to learn more about the language, they will find it a very useful and intriguing language.
