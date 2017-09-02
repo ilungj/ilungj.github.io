@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Javascript: The Hidden Gem
-date: 2017-08-27
+date: 2017-09-01
 labels:
 ---
 
