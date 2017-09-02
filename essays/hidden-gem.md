@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Getting Started
+title: JavaScript Started
 date: 2017-08-27
 labels:
 ---
