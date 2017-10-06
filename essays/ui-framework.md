@@ -6,7 +6,7 @@ date: 2017-10-05
 labels:
 ---
 
-~~UI frameworks is not a bed of roses for beginners. Beginners should avoid using them like the plague.
+<del>UI frameworks is not a bed of roses for beginners. Beginners should avoid using them like the plague.</del>
 
 For the sake of discretion- in this article, I discourage beginners who are just getting started in front-end web development from using UI frameworks. UI frameworks can be a big investment, hinder long term learning, and may ultimately slow down the performance of your product.
 
