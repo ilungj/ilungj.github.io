@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Building Multiplayer Game With Meteor"
+title: "Building a Multiplayer Game with Meteor"
 date: 2017-10-26
 labels:
   - Software Engineering
