@@ -4,6 +4,8 @@ type: essay
 title: The Hidden Gem
 date: 2017-09-01
 labels:
+  - Software Engineering
+  - JavaScript
 ---
 
 I used to look down on JavaScript when I first started learning programming. In the case that this sounds offensive to anybody, a more qualified statement would be "JavaScript came off as an unappealing language for me to learn." I simply thought that JavaScript was too messy, and seeing how almost everybody was using JavaScript (even non-Computer Science majors to some extent), I got this impression that JavaScript was too easy, and was only good for making websites. In hindsight this was all too impetuous and I should have given some time for me to get experienced in programming before I gave it such hasty impression. So to somewhat atone for my past misperception of the language, I would like to give it some credit for what it deserves.
