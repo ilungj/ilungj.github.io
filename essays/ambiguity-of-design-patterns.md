@@ -16,7 +16,7 @@ However, with a bit of research, I was quickly cast with some doubts about how c
 
 Can there be any more new design patterns (that are not based on the common design patterns)? Are they necessary?
 
-Who acknowledges the new design patterns then? The authors of Design Patterns: Elements of Reusable Object-Oriented Software who first published the idea?
+Who acknowledges the new design patterns then? The authors of "Design Patterns: Elements of Reusable Object-Oriented Software" who first published the idea?
 
 Design patterns is loosely defined as best practices that have proven to work over time. How can one justify that a particular design pattern worked well over time? For how long does it have to work? 5 years? 10 years?
 
