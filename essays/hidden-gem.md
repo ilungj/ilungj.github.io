@@ -16,11 +16,11 @@ This flexibility can come in handy when you're programming in JavaScript and you
 
 Because properties of functions can easily be linked to other functions, you can be selective in what you inherit from other objects. This is different from languages like Java, where if you decided to extend a class from another class and call "super()", you would inherit all of methods of the parent class whether you liked it or not. Such selective prototypal inheritance lets you avoid a very annoying problem that you may commonly encounter in programming: the fragile base class problem.
 
-<h3>The fragile base what?</h3>
+<h3>The fragile base class problem</h3>
 
 The fragile base class problem is vulnerability in code where modifications to the base class can cause subclasses to malfunction. Suppose you're coding in Java again, and you have a class B that extends from class A, and classes C and D that extend from class B. Now make believe that there's a problem in C, but in order to fix this, we need to make some changes to the methods that were inherited all the way from class A. So you make these changes.. but voilà , class D is now broken because it was relying on the method that was changed in class A. If you could only inherit what you needed for each class and could easily add custom methods like in JavaScript, you would unlikely encounter this problem. 
 
-<h3>I don't understand.</h3>
+<h3>Big support</h3>
 
 If you don't quite understand concepts like what I just described, you can always search online to find tons of resources that will help you understand. This brings up my next point, which is JavaScript's widely received support from community.
 
@@ -32,4 +32,4 @@ Speaking of node package manager, node.js is a platform that lets you program on
 
 <h2>JavaScript is like a hidden gem</h2>
 
-I would like to rectify my initial statement about JavaScript being only good for making websites. JavaScript is good for making websites and good for doing everything else. Some people (like me) may be cautious about learning JavaScript in the beginnning because of prejudices and confusing concepts like prototypes. But if they give it a chance to really get to learn more about the language, they will find it a very useful and intriguing language.
+Some people (like me) may be cautious about learning JavaScript in the beginnning because of prejudices and confusing concepts like prototypes. But if they give it a chance to really get to learn more about the language, they will find it a very useful and intriguing language.
