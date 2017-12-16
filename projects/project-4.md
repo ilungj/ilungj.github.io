@@ -13,7 +13,15 @@ labels:
 summary: My team developed a HTML multiplayer game wtih Meteor.
 ---
 
-<img src="images/mathwithfriends-demo.png"> <br>
+![images](images/mwf1.png)
+
+![images](images/mwf2.png)
+
+![images](images/mwf3.png)
+
+![images](images/mwf4.png)
+
+![images](images/mwf5.png)
 
 Math with Friends is an online game that makes learning math fun for students. For many students at University of Hawaii at Manoa, math is not their most favorite subject in school. For example, you can hear the students grumbling when you pass by the school’s algorithm classes. The intent of Math with Friends is to motivate these students to enjoy learning math. It aims to give them better practice at math concepts, motivation, and the insight that even math can be sometimes fun.
 
