@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="448.6637"
-   height="214.88791"
-   viewBox="0 0 118.70893 56.855761"
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
@@ -212,8 +212,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.85241061"
-     inkscape:cx="185.11825"
-     inkscape:cy="185.93027"
+     inkscape:cx="-43.058168"
+     inkscape:cy="373.63324"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      showgrid="false"
@@ -227,7 +227,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     width="841mm" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -242,7 +243,7 @@
   </metadata>
   <g
      id="g6873"
-     transform="matrix(1.9175429,0,0,1.9175429,-65.112579,-216.85542)">
+     transform="matrix(1.9175429,0,0,1.9175429,-57.973512,-175.56289)">
     <g
        id="g5233"
        transform="rotate(-14.184281,497.62042,-71.085268)">
