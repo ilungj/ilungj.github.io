@@ -13,15 +13,11 @@ labels:
 summary: My team developed a HTML multiplayer game wtih Meteor.
 ---
 
-![images](/images/mwf1.png = 560x315)
-
-![images](/images/mwf2.png = 560x315)
-
-![images](/images/mwf3.png = 560x315)
-
-![images](/images/mwf4.png = 560x315)
-
-![images](/images/mwf5.png = 560x315)
+<img src="/images/mwf1.png" width="560" height="315"> <br>
+<img src="/images/mwf2.png" width="560" height="315"> <br>
+<img src="/images/mwf3.png" width="560" height="315"> <br>
+<img src="/images/mwf4.png" width="560" height="315"> <br>
+<img src="/images/mwf5.png" width="560" height="315"> <br>
 
 Math with Friends is an online game that makes learning math fun for students. For many students at University of Hawaii at Manoa, math is not their most favorite subject in school. For example, you can hear the students grumbling when you pass by the school’s algorithm classes. The intent of Math with Friends is to motivate these students to enjoy learning math. It aims to give them better practice at math concepts, motivation, and the insight that even math can be sometimes fun.
 
