@@ -4,6 +4,7 @@ type: essay
 title: Getting Started
 date: 2017-08-27
 labels:
+  - IT
 ---
 
 It's already been a year since I started studying computer science, and I feel that I like everything that I do. Although it was a rough transition from being an economics / international relations student to being someone in a completely different field, there's a sense of satisfaction that I didn't have before.
