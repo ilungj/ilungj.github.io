@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "../images/profile.jpg",
     "email": "ilungj@gmail.com",
-    "phone": "808-462-9109",
+    "phone": "808-xxx-xxxx",
     "website": "https://ilungj.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2019.",
     "location": {
@@ -29,22 +29,12 @@
   },
   "interests": [
     {
-      "name": "Embedded systems",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "IT",
+      "name": "Embedded Systems",
       "keywords": [
       ]
     },
     {
       "name": "Statistics",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Art",
       "keywords": [
       ]
     }
@@ -56,12 +46,13 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
+        "VisualBasic",
         "Java",
-        "Android SDK",
-        "Javascript",
-        "Angular",
-        "Node",
-        "Powershell"
+        "Python",
+        "JavaScript",
+        "Prolog",
+        "Lisp"
       ]
     },
     {
@@ -69,8 +60,11 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Ubuntu",
-        "Git/GitHub",
+        "Unix",
+        "Oracle DBMS",
+        "SQL Server",
+        "MongoDB",
+        "SQLite"
       ]
     }
   ],
@@ -88,28 +82,43 @@
   ],
   "work": [
     {
-      "company": "Mobile IT Force",
-      "position": "IT Technician",
-      "website": "http://www.mobileitforce.com/",
-      "startDate": "2017-05",
+      "company": "eWorld Enterprise Solution",
+      "position": "Software Developer Intern",
+      "website": "http://www.eworldes.com/",
+      "startDate": "2018-03",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Diagnose, troubleshoot, and repair Lenovo machines (Thinkpad, Ideapad, Yoga, Chromebooks, etc). ",
-        "Lead special projects including company website development."
+        "Analyze and build interfaces for the Department of Education’s legacy payroll system.",
+        "Develop and optimize large Oracle SQL queries aggregating HR data for over 360,000 employees.",
+        "Migrate business logic in COBOL programs to backend written in C# using Microsoft technologies such as Visual Studio and SQL Server Management Studio."
       ]
     },
     {
-      "company": "UHM School of Travel Industry Management",
-      "position": "Lab Assistant",
-      "website": "http://www.tim.hawaii.edu/",
-      "startDate": "2017-06",
+      "company": "William S. Richardson School of Law",
+      "position": "Software Developer",
+      "website": "https://www.law.hawaii.edu/",
+      "startDate": "2018-02",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues for students and staffs.",
-        "Write scripts to automate administrative tasks.",
-        "Image, deploy and maintain machines for staff use."
+        "Provide consulting services for a digital archive that received international recognition by the Association of Tribal Archives, Libraries & Museums.",
+        "Develop a Java console application used to extract and compile metadata for over 190,000 digitized native Hawaiian records and legal documents."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "company": "Open Power Quality",
+      "position": "Undergraduate Research Assistant",
+      "website": "https://openpowerquality.org/",
+      "startDate": "2018-05",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Assist research for a power quality project at the Department of Information and Computer Sciences by developing daemons and utilities for key cloud services.",
+        "Develop test fixtures and practice continuous integration and deployment.",
+        "Secure serialized data sent across distributed systems."
       ]
     }
   ],
@@ -133,6 +142,12 @@
       "date": "2017",
       "awarder": "AT&T Hackathon",
       "summary": "My team won the Best UI/UX Award at the 2017 AT&T Hackathon."
+    },
+    {
+      "title": "Best College Team Award",
+      "date": "2017",
+      "awarder": "Hawaii Annual Code Challenge",
+      "summary": "My team won the Best College Team at the 2017 Hawaii Annual Code Challenge."
     }
   ],
   "references": [
