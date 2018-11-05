@@ -14,7 +14,7 @@ labels:
 summary: I made contributions to a research project at the department of Information and Computer Sciences, University of Hawaii.
 ---
 
-<img src="/images/opq1.png">
+<img src="/images/opq1.png" width="560" height="315">
 
 Open Power Quality is a group of open source software and hardware products that collect, analyze and visualize power quality data. The project was motivated by the need for a stable way to employ renewable energy, the widespread use of complex consumer electronics, and the lack of transparency of power quality data. Open Power Quality makes it easy for anybody to gather and utilize these data at a low cost.
 
