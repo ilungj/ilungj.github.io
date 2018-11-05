@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/openpowerquality.jpeg
+image: images/openpowerquality.jpg
 title: Open Power Quality
 permalink: projects/openpowerquality
 date: 2018
